@@ -1,6 +1,6 @@
 Hey, you sadfuck. Nobody loves you? Haha! I don't like you either and I am not here to help you, kys idc.
 
-This is a repository containing links to delete your account on different social media platforms. So that you can erase your non-worthy existence from the internet before you either get your shit together or die instead of fighting.
+This is a repository containing links to delete your account on different social media platforms. So that you can erase your non-worthy existence from the internet so you can get your shit together irl.
 
 
 # facebook
