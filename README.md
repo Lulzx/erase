@@ -1,6 +1,6 @@
 Hey, you sadfuck. Nobody loves you? Haha! I don't like you either and I am not here to help you, kys idc.
 
-This is a repository containing links to delete your account on different social media platforms. So that you can erase your non-worthy existence from the internet so you can get your shit together irl.
+This is a repository containing links to delete your accounts on different social media platforms. So that you can erase your non-worthy existence from the internet so you can get your shit together irl.
 
 
 # facebook
@@ -12,3 +12,10 @@ This is a repository containing links to delete your account on different social
 # telegram
 > https://my.telegram.org/delete
 
+# google
+> https://accounts.google.com/DeleteAccount
+
+# twitter
+> https://twitter.com/settings/account
+
+HAVE FUN IRL :D
